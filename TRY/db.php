@@ -1,6 +1,6 @@
 <?php
-$host = 'your_host';
-$dbname = 'your_database';
+$host = 'Local Server';
+$dbname = 'data';
 $username = 'your_username';
 $password = 'your_password';
 
